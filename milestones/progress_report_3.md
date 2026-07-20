@@ -33,7 +33,6 @@ Replace the blank before the percent sign with a number from 0 to 100.
 Completion percentage for Milestone 3 - Unit 7: 100%
 List each issue you completed this unit and the main file or folder where that work lives, one per line:
 
-- Example: User login - server/routes/auth.js
 - Personalized Onboarding: Basic multi-step onboarding questionnaire UI - https://github.com/MomenTeam-Devs/MOMENTUM/tree/joy-feature1/client
 - Project Setup: Backend & Database - https://github.com/MomenTeam-Devs/MOMENTUM/tree/setup-backend/server
 - Repo Setup Task - `Create the shared team space, add collaborators (codepathreview), map out the Kanban project board layout, and define baseline full-stack features.`
