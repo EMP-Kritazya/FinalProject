@@ -3,6 +3,7 @@
 ## GitHub Project Setup
 
 Project board created: Yes
+
 Project board shared with codepathreview: Yes
 
 ## Issues Created
