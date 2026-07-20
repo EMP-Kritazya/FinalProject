@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/4f9adf5c-bd93-4695-b546-fabfd7a9b8e4
+
+
+
+https://github.com/user-attachments/assets/cc6b17ae-6c19-4105-8a65-774d362ff042
+
 # Momentum
 
 CodePath WEB103 Final Project
@@ -48,7 +56,9 @@ Backend:
 
 New users complete a short onboarding questionnaire that collects their fitness goal, experience level, preferred workout location, available equipment, and desired workout frequency. This information is used to automatically generate a personalized starter workout plan.
 
-[gif goes here]
+https://github.com/user-attachments/assets/35ec711a-0d21-4578-8e35-a6a9aca0beed
+
+
 
 ---
 
